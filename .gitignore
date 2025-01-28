@@ -1,0 +1,9 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+pubspec.lock
+node_modules/
