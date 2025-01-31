@@ -24,7 +24,7 @@ A powerful VSCode extension that streamlines Flutter asset management by automat
 3. Type `ext install flutter-assets-generator`
 4. Press Enter
 
-You can also install it directly from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=your-publisher.flutter-assets-generator).
+You can also install it directly from the [Open VSX Registry](https://open-vsx.org/extension/Ramgopal/flutter-assets-generator).
 
 ## Quick Start
 
@@ -192,6 +192,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Create an issue on GitHub
 - Star the repository if you find it helpful
 - Follow for updates
+- Email me at: ramgopalbagh009@gmail.com
 
 ## Acknowledgments
 
