@@ -2,11 +2,13 @@
   "name": "flutter-assets-generator",
   "displayName": "Flutter Assets Generator",
   "description": "Generate Flutter assets constants for easy access and type-safe asset references",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "icon": "images/logo.png",
+  "publisher": "Ramgopal",
+  "namespace": "Ramgopal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/flutter-assets-generator.git"
+    "url": "https://github.com/ramgopal99/flutter-assets-generator.git"
   },
   "engines": {
     "vscode": "^1.80.0"
